@@ -1,0 +1,16 @@
+/home/turtlebot/mainproj/build/CMakeFiles/ROSBUILD_genmsg_cpp.dir
+/home/turtlebot/mainproj/build/CMakeFiles/ROSBUILD_genmsg_lisp.dir
+/home/turtlebot/mainproj/build/CMakeFiles/ROSBUILD_gensrv_cpp.dir
+/home/turtlebot/mainproj/build/CMakeFiles/ROSBUILD_gensrv_lisp.dir
+/home/turtlebot/mainproj/build/CMakeFiles/biskit.dir
+/home/turtlebot/mainproj/build/CMakeFiles/clean-test-results.dir
+/home/turtlebot/mainproj/build/CMakeFiles/rosbuild_precompile.dir
+/home/turtlebot/mainproj/build/CMakeFiles/rosbuild_premsgsrvgen.dir
+/home/turtlebot/mainproj/build/CMakeFiles/rospack_genmsg.dir
+/home/turtlebot/mainproj/build/CMakeFiles/rospack_genmsg_libexe.dir
+/home/turtlebot/mainproj/build/CMakeFiles/rospack_gensrv.dir
+/home/turtlebot/mainproj/build/CMakeFiles/test.dir
+/home/turtlebot/mainproj/build/CMakeFiles/test-future.dir
+/home/turtlebot/mainproj/build/CMakeFiles/test-results.dir
+/home/turtlebot/mainproj/build/CMakeFiles/test-results-run.dir
+/home/turtlebot/mainproj/build/CMakeFiles/tests.dir
